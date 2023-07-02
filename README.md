@@ -1,5 +1,9 @@
 ```sh-session
-Download From Release Versions if you want new update!!!!
+Download From Release Versions if you want new update!!!!!
+
+!JOIN MY DISCORD FOR MORE!
+
+https://discord.gg/C3Q7RKcSWh
 ```
 UPDATED FOR CURRENT PATCH (COMPLETELY UD)
 ```sh-session
