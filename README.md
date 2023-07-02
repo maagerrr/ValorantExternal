@@ -1,3 +1,6 @@
+```sh-session
+Download From Release Versions if you want new update!!!!
+```
 UPDATED FOR CURRENT PATCH (COMPLETELY UD)
 ```sh-session
 DETECTION STATUS
