@@ -4,9 +4,9 @@ Download From Release Versions if you want new update!!!!
 UPDATED FOR CURRENT PATCH (COMPLETELY UD)
 ```sh-session
 DETECTION STATUS
-AIMBOT(UNDETECTED)
-ESP(UNDETECTED)
-UPDATED: 6/30/2023
+AIMBOT(UNDETECTED) + updated
+ESP(UNDETECTED) + fixed bugged legs
+UPDATED: 7/2/2023
 ```
 ```sh-session
 FEATURES
@@ -45,7 +45,7 @@ AIMBOT(UD) / ESP(UD) / CUSTOM BINDS / MENU
  ```sh-session
 `Although this cheat is undetected, I would advise either using an alt account or inserting your own driver.`
 
-`I have not been banned in 1054 days using this cheat, while using the most up to date version. Make sure to Star the repo to get notifications about updates to avoid possible bans.`
+`I have not been banned in 234 days using this cheat, while using the most up to date version. Make sure to Star the repo to get notifications about updates to avoid possible bans.`
 ```                
                            
 <img src="https://user-images.githubusercontent.com/62274829/187018354-cd41d782-df8f-4edd-9dc3-b795083b7026.jpeg">
