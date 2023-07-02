@@ -6,6 +6,7 @@ UPDATED FOR CURRENT PATCH (COMPLETELY UD)
 DETECTION STATUS
 AIMBOT(UNDETECTED) + updated
 ESP(UNDETECTED) + fixed bugged legs
+Injector(UNDETECTED) + fixed crashing valorant sometimes
 UPDATED: 7/2/2023
 ```
 ```sh-session
