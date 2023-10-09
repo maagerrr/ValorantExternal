@@ -1,9 +1,9 @@
 ```sh-session
 Download From Release Versions if you want new update!!!!!
 
-!JOIN MY DISCORD FOR MORE!
+!!JOIN MY DISCORD FOR MORE!!
 
-https://discord.gg/C3Q7RKcSWh
+https://discord.gg/fPR3p8fpZY
 ```
 UPDATED FOR CURRENT PATCH (COMPLETELY UD)
 ```sh-session
@@ -11,7 +11,7 @@ DETECTION STATUS
 AIMBOT(UNDETECTED) + updated
 ESP(UNDETECTED) + fixed bugged legs
 Injector(UNDETECTED) + fixed crashing valorant sometimes
-UPDATED: 7/2/2023
+UPDATED: 10/9/2023
 ```
 ```sh-session
 FEATURES
@@ -24,8 +24,8 @@ OPTIMIZE SMOOTHING
 ```sh-session
 TO BUY PREMIUM VERSION DM ME ON TELEGRAM OR ON DISCORD! (SILENT AIM, BUNNY HOP, SKIN CHANGER, MORE ESP MODES etc.)
 PRICE: 5$ week 10$ monthly 100$ lifetime
-MY DISCORD: .sileent (without hashtag)
-MY TELEGRAM: https://t.me/sajlent
+MY DISCORD: .sajleent (without hashtag)
+MY TELEGRAM: https://t.me/xddslnt
 ```
 
 ###  Valorant C++ External
