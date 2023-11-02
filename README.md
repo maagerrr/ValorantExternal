@@ -23,8 +23,8 @@ OPTIMIZE SMOOTHING
 ```
 ```sh-session
 TO BUY PREMIUM VERSION DM ME ON TELEGRAM OR ON DISCORD! (SILENT AIM, BUNNY HOP, SKIN CHANGER, MORE ESP MODES etc.)
-PRICE: 5$ week 10$ monthly 100$ lifetime
-MY DISCORD: .sajleent (without hashtag)
+PRICE: 5$ week 10$ monthly 30$ lifetime
+MY DISCORD: mleko1111 (without hashtag)
 MY TELEGRAM: https://t.me/xddslnt
 ```
 
